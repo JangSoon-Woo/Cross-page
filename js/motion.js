@@ -5,7 +5,7 @@ let imgArr;
 let title;
 let pageNum = 0;
 let totalNum = 0;
-
+ 
 window.onload = function(){
     contentWrap = document.querySelectorAll('.contentWrap');
     textWrap = document.querySelectorAll('.textWrap');
